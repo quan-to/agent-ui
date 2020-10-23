@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+output
+store
+bind_*.go
+keys
+.idea
