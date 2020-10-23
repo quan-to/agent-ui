@@ -1,7 +1,14 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://tldrlegal.com/license/mit-license) [![Release Status](https://github.com/quan-to/agent-ui/workflows/AgentUI%20Release/badge.svg)](https://github.com/quan-to/agent-ui/actions) [![Test Status](https://github.com/quan-to/agent-ui/workflows/AgentUI%20Tests/badge.svg)](https://github.com/quan-to/agent-ui/actions)
-# Agent UI
+
+Agent UI
+====================
 GPG Signed GraphQL Client for Quanto
 
+
+Installing
+====================
+
+Install instructions are in the wiki section: https://github.com/quan-to/agent-ui/wiki
 
 Agent UI Development
 ====================
