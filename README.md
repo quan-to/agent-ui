@@ -18,9 +18,10 @@ The graphql-playground fork for AgentUI is hosted at [https://github.com/quan-to
 Top update agent-ui playground:
 
 1. Clone Repository https://github.com/quan-to/graphql-playground
-2. `yarn`
-3. Edit the package `packages/graphql-playground-react`
-4. `yarn build`
-5. Copy `build/*` to `cmd/agent-ui/resources/app/`
-6. Change `/static/` to `./static/` in `cmd/agent-ui/resources/app/index.html`
-7. Run `astilectron-bundler` in `cmd/agent-ui`
+2. Change to branch `chevron`
+3. `yarn`
+4. Edit the package `packages/graphql-playground-react`
+5. `yarn build`
+6. Copy `build/*` to `cmd/agent-ui/resources/app/`
+7. Change `/static/` to `./static/` in `cmd/agent-ui/resources/app/index.html`
+8. Run `astilectron-bundler` in `cmd/agent-ui`
