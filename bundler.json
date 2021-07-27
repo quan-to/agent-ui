@@ -5,7 +5,9 @@
   "icon_path_windows": "resources/icon.ico",
   "environments": [
     {"arch": "amd64", "os": "darwin"},
+    {"arch": "arm64", "os": "darwin"},
     {"arch": "amd64", "os": "linux"},
+    {"arch": "arm64", "os": "linux"},
     {"arch": "amd64", "os": "windows"}
   ],
   "version_electron": "7.1.10",
